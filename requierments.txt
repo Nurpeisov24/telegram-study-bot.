@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+pillow
+pytesseract
+pydub
+speechrecognition
+moviepy
